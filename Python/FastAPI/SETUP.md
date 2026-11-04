@@ -204,3 +204,6 @@ services:
 ```
 
 `docker compose up --build -d backend` : 실행 후 Backend localhost의 docs 를 열어서 health ok 확인
+
+#### vscode - 컨테이너 연결
+Frontend 와 같은 방식으로 연결 후 확장프로그램 Python, Pylance 설치.
